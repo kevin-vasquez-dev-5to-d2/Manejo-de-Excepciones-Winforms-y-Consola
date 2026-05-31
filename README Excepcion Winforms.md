@@ -18,31 +18,34 @@ Este proyecto consiste en una aplicación de escritorio desarrollada en C# que p
 
 **1. Interfaz Principal de Registro**
 En esta pantalla se muestra el formulario donde el usuario registra los datos del estudiante.
-![Registro de Estudiante](https://github.com/usuario/repo/blob/rama/imagenes/registro_estudiante.png)
+![Registro de Estudiante](https://github.com/kevin-vasquez-dev-5to-d2/Manejo-de-Excepciones-Winforms-y-Consola/blob/ced0edc0df3fe90663e3ecd36c68b53b67190778/Imagenes%20proyectos/Captura%20de%20pantalla%202026-05-31%20132600.png
+)
 
 ---
 
 **2. Validación de Nombre Completo**
 Se valida que el nombre no contenga números y tenga mínimo 3 caracteres.
-![Validacion Nombre](https://github.com/usuario/repo/blob/rama/imagenes/validacion_nombre.png)
+![Validacion Nombre](https://github.com/kevin-vasquez-dev-5to-d2/Manejo-de-Excepciones-Winforms-y-Consola/blob/ced0edc0df3fe90663e3ecd36c68b53b67190778/Imagenes%20proyectos/Captura%20de%20pantalla%202026-05-31%20132915.png
+)
 
 ---
 
 **3. Validación de Edad**
 Se verifica que la edad sea un número entero en rango válido (1-120 años).
-![Validacion Edad](https://github.com/usuario/repo/blob/rama/imagenes/validacion_edad.png)
+![Validacion Edad](https://github.com/kevin-vasquez-dev-5to-d2/Manejo-de-Excepciones-Winforms-y-Consola/blob/ced0edc0df3fe90663e3ecd36c68b53b67190778/Imagenes%20proyectos/Captura%20de%20pantalla%202026-05-31%20133021.png
+)
 
 ---
 
 **4. Validación de Correo Electrónico**
 Se valida el formato del correo electrónico mediante expresión regular.
-![Validacion Correo](https://github.com/usuario/repo/blob/rama/imagenes/validacion_correo.png)
+![Validacion Correo](https://github.com/kevin-vasquez-dev-5to-d2/Manejo-de-Excepciones-Winforms-y-Consola/blob/ced0edc0df3fe90663e3ecd36c68b53b67190778/Imagenes%20proyectos/Captura%20de%20pantalla%202026-05-31%20133127.png)
 
 ---
 
 **5. Registro Exitoso**
 Se muestra el mensaje de éxito después de completar todas las validaciones.
-![Registro Exitoso](https://github.com/usuario/repo/blob/rama/imagenes/registro_exitoso.png)
+![Registro Exitoso](https://github.com/kevin-vasquez-dev-5to-d2/Manejo-de-Excepciones-Winforms-y-Consola/blob/ced0edc0df3fe90663e3ecd36c68b53b67190778/Imagenes%20proyectos/Captura%20de%20pantalla%202026-05-31%20133225.png)
 
 ---
 
