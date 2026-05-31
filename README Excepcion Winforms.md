@@ -1,0 +1,74 @@
+# Aplicación de Validación de Estudiantes en Windows Forms
+
+## Descripción:
+
+Este proyecto consiste en una aplicación de escritorio desarrollada en C# que permite registrar información básica de un estudiante con validación completa de datos mediante manejo robusto de excepciones. La aplicación proporciona una interfaz intuitiva para capturar información del usuario y valida cada campo antes de procesarlo.
+
+---
+
+## Tecnologías Utilizadas:
+
+* **Lenguaje:** C#
+* **Herramientas / Framework:** Windows Forms (.NET Framework 4.7.2)
+* **Entorno o IDE:** Visual Studio Community 2026.
+
+---
+
+## Imágenes de la ejecución del proyecto:
+
+**1. Interfaz Principal de Registro**
+En esta pantalla se muestra el formulario donde el usuario registra los datos del estudiante.
+![Registro de Estudiante](https://github.com/usuario/repo/blob/rama/imagenes/registro_estudiante.png)
+
+---
+
+**2. Validación de Nombre Completo**
+Se valida que el nombre no contenga números y tenga mínimo 3 caracteres.
+![Validacion Nombre](https://github.com/usuario/repo/blob/rama/imagenes/validacion_nombre.png)
+
+---
+
+**3. Validación de Edad**
+Se verifica que la edad sea un número entero en rango válido (1-120 años).
+![Validacion Edad](https://github.com/usuario/repo/blob/rama/imagenes/validacion_edad.png)
+
+---
+
+**4. Validación de Correo Electrónico**
+Se valida el formato del correo electrónico mediante expresión regular.
+![Validacion Correo](https://github.com/usuario/repo/blob/rama/imagenes/validacion_correo.png)
+
+---
+
+**5. Registro Exitoso**
+Se muestra el mensaje de éxito después de completar todas las validaciones.
+![Registro Exitoso](https://github.com/usuario/repo/blob/rama/imagenes/registro_exitoso.png)
+
+---
+
+
+## Uso o Ejecución:
+
+1. Abrir el proyecto en Visual Studio Community 2026.
+2. Ejecutar el sistema presionando F5 o desde el botón de ejecución.
+3. Ingresar el nombre completo del estudiante.
+4. Ingresar la edad en formato numérico.
+5. Ingresar el correo electrónico válido.
+6. Presionar el botón "Guardar" para validar y registrar la información.
+7. Presionar el botón "Limpiar" para borrar los campos.
+8. Presionar el botón "Salir" para cerrar la aplicación.
+
+---
+
+## Contexto Académico:
+
+* **Nivel:** Secundaria Técnico Profesional
+* **Módulo Formativo:** Desarrollo de Aplicaciones y Sistemas de Información
+* **Curso / Sección:** 5to D2
+* **Año escolar:** 2025 - 2026
+
+---
+
+## Autor:
+
+Kevin Vasquez
